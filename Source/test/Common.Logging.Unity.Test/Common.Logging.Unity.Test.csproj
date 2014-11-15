@@ -29,14 +29,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
-    <Reference Include="Common.Logging">
-      <HintPath>..\..\packages\Common.Logging.2.2.0\lib\net35\Common.Logging.dll</HintPath>
-    </Reference>
-    <Reference Include="Common.Logging.Core">
-      <HintPath>..\..\packages\Common.Logging.Core.2.2.0\lib\net35\Common.Logging.Core.dll</HintPath>
-    </Reference>
     <Reference Include="xunit">
       <HintPath>..\..\packages\xunit.1.9.2\lib\net20\xunit.dll</HintPath>
+    </Reference>
+    <Reference Include="Common.Logging">
+      <HintPath>..\..\packages\Common.Logging.2.3.1\lib\net35\Common.Logging.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
